@@ -1,4 +1,4 @@
-## Olá eu sou Leandro apelido nos games #TerryMaster 🖐️
+## Olá eu sou Leandro apelido nos games #TerryMaster   🖐️
 
 <div align="center">
   <a href="https://github.com/terrygomes">
