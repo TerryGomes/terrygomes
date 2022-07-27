@@ -21,7 +21,7 @@
  
  
 </div>
-  <h1>#TerryMaster</h1>
+  <h1>#TerryGomes</h1>
   {
   <div>
         <h2>Skills()</h2>
