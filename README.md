@@ -44,6 +44,5 @@
     <li>Email: leandrogomes.santos@hotmail.com</li>
     <li>Whatsapp: 21 98292-1391</li>
     </ul>
-     
-    }}
+     }}
   </div>
