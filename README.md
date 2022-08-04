@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/channel/UChomVjGrHNTRZ7bPTQrss2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/channel/UCVgn69LJWtrIx5RVzTSZKFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leandro-gomes-santos-81694919b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ </div>
  <div>
  <h1>Curso de Html</h1>
  <h1>Base W3Scholls</h1>
@@ -31,7 +31,7 @@
      <h2>canal dedcado - Tecnologias</h2>
       <a href="https://www.youtube.com/channel/UCVgn69LJWtrIx5RVzTSZKFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
      
- </div>
+
  
 </div>
   <h1>#TerryGomes</h1>
