@@ -31,7 +31,8 @@
   <div>
      <h2>Canal -Tecnologia dedicada a jogos</h2>
      <a href="https://www.youtube.com/channel/UChomVjGrHNTRZ7bPTQrss2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-     
+       </div>
+       <div>
      <h2>canal dedcado - Tecnologias</h2>
       <a href="https://www.youtube.com/channel/UCVgn69LJWtrIx5RVzTSZKFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
       </div>
