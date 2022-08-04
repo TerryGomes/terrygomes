@@ -13,8 +13,6 @@
 </div>
 ##
 <div> 
-<a href="https://www.youtube.com/channel/UChomVjGrHNTRZ7bPTQrss2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.youtube.com/channel/UCVgn69LJWtrIx5RVzTSZKFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leandro-gomes-santos-81694919b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
@@ -33,7 +31,7 @@
      <a href="https://www.youtube.com/channel/UChomVjGrHNTRZ7bPTQrss2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
        </div>
        <div>
-     <h2>canal dedcado - Tecnologias</h2>
+     <h2>Canal dedicado - Tecnologias</h2>
       <a href="https://www.youtube.com/channel/UCVgn69LJWtrIx5RVzTSZKFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
       </div>
   
