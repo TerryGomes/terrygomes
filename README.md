@@ -25,15 +25,11 @@
      <a href="https://l2multverso.com.br/" target="_blank"> Site - MultVerso</a>
      <p>Apenas R$ 9.99</p>
      
-     <h2>Canal -Tecnologia dedicada a jogos</h2>
-     <a href="https://www.youtube.com/channel/UChomVjGrHNTRZ7bPTQrss2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-     
-     <h2>canal dedcado - Tecnologias</h2>
-      <a href="https://www.youtube.com/channel/UCVgn69LJWtrIx5RVzTSZKFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-     
 
- 
-</div>
+     </div>
+  
+
+  
   <h1>#TerryGomes</h1>
   {
   <div>
