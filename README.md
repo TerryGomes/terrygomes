@@ -17,16 +17,16 @@
  <a href="https://www.youtube.com/channel/UCVgn69LJWtrIx5RVzTSZKFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leandro-gomes-santos-81694919b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- <div>
+
+
+<div>
  <h1>Curso de Html</h1>
  <h1>Base W3Scholls</h1>
  <p> Abertura de turma dia 08/08/2022</p>
  <p> Capacitar certificado da W3Scholls</p>
      <a href="https://l2multverso.com.br/" target="_blank"> Site - MultVerso</a>
      <p>Apenas R$ 9.99</p>
-     
-
-     </div>
+ </div>
   
 
   
