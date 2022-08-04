@@ -1,8 +1,8 @@
 ## Olá eu sou Leandro apelido nos games #TerryGomes   🖐️
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terrygomes&theme=outrun&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrygomes&layout=demo&langs_count=7&theme=outrun"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terrygomes&theme=algolia&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrygomes&layout=demo&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
