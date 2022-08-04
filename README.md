@@ -17,7 +17,14 @@
  <a href="https://www.youtube.com/channel/UCVgn69LJWtrIx5RVzTSZKFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leandro-gomes-santos-81694919b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+ <div>
+ <h1>Curso de Html</h1>
+ <h1>Base W3Scholls</h1>
+ <p> Abertura de turma dia 08/08/2022</p>
+ <p> Capacitação para tirar o certificado do site W3Scholls</p>
+     <a href="https://l2multverso.com.br/" target="_blank"> Site</a>
+     <p>Apenas R$ 9.99</p>
+ </div>
  
 </div>
   <h1>#TerryGomes</h1>
@@ -41,7 +48,7 @@
     {
     <ul>
     <li>Email: leandrogomes.santos@hotmail.com</li>
-    <li>Whatsapp: 21 98292-1391</li>
+    <li>Whatsapp: 21 98292-1391 - grupos para estudos e dúvidas</li>
     </ul>
      }}
   </div>
