@@ -20,7 +20,7 @@
 <div>
  <h1>Curso de Html</h1>
  <h1>Base W3Scholls</h1>
- <p> Abertura de turma dia 08/08/2022</p>
+ 
  <p> Capacitar certificado da W3Scholls</p>
      <a href="https://l2multverso.com.br/" target="_blank"> Site - MultVerso</a>
      <p>Apenas R$ 9.99</p>
