@@ -23,7 +23,7 @@
  
  <p> Capacitar certificado da W3Scholls</p>
      <a href="https://l2multverso.com.br/" target="_blank"> Site - MultVerso</a>
-     <p>Apenas R$ 9.99</p>
+     <p>Apenas R$ 14.99</p>
  </div>
   
   <div>
