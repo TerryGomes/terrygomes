@@ -1,5 +1,5 @@
 ## Olá eu sou Leandro apelido nos games #TerryGomes   🖐️
-
+  <img align="right" alt="Programdor" height="360" width="480" src="https://github.com/terrygomes/terrygomes/blob/Projeto-Emprego/programador.gif">
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terrygomes&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide=contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrygomes&layout=demo&langs_count=7&theme=algolia"/>
@@ -63,4 +63,3 @@
      
   </div>
   
-  <img align="center" alt="Programdor" height="360" width="480" src="https://github.com/terrygomes/terrygomes/blob/Projeto-Emprego/programador.gif">
