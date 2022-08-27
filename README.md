@@ -46,7 +46,7 @@
     <li>Sistemas operacionais, Windows, Linux</li>
     <li>Excelência em serviços ao cliente (Help Desk)</li>
     <li>Implantação, manutenção de redes e servidores</li> 
-      <li>
+      <li>Softs
         <ol>
             <li>Html/ Css    65%</li>
             <li>JavaScript   35%</li>
