@@ -63,4 +63,4 @@
      
   </div>
   
-  <img align="center" alt="Programdor" height="360" width="480" src="programdor.gf">
+  <img align="center" alt="Programdor" height="360" width="480" src="https://github.com/terrygomes/terrygomes/blob/Projeto-Emprego/programador.gif">
