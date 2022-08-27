@@ -54,12 +54,10 @@
     <li>Java         45%</li>
     <li>Mysql/ Sql   25%</li>
     <li>WordPress    65%</li>
-   </ol>
-  
-    }
+  </ol>
     
   </div>
-
+}
   <div>
     <h3>Contato()</h3>
     {
