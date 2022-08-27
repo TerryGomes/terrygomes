@@ -67,8 +67,6 @@
     <li>Email: leandrogomes.santos@hotmail.com</li>
     <li>Whatsapp: 21 98292-1391 - grupos para estudos e dúvidas</li>
     </ul>
-     }}
-     
-     
+     }    
   </div>
-  
+  }
