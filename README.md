@@ -61,4 +61,4 @@
      }}
      
      <img src="programdor.gf" alt="Programdor" width="480" height="360" >
-  </div>height
+  </div>
