@@ -52,6 +52,7 @@
     <li>Html/ Css    65%</li>
     <li>JavaScript   35%</li>
     <li>Java         45%</li>
+    <li>Mysql/ Sql   25%</li>
     <li>WordPress    65%</li>
    </ol>
   
