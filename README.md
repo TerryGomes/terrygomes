@@ -46,14 +46,16 @@
     <li>Sistemas operacionais, Windows, Linux</li>
     <li>Excelência em serviços ao cliente (Help Desk)</li>
     <li>Implantação, manutenção de redes e servidores</li>
-    
-    <ul>Soft
+  
+    <li> Softs
+    <ul>
     <li>Html/ Css    65%</li>
     <li>JavaScript   35%</li>
     <li>Java         45%</li>
     <li>WordPress    65%</li>
     </ul>
-    </ul>
+    </li>  
+  </ul>
     }
     
   </div>
