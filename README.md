@@ -47,7 +47,7 @@
     <li>Excelência em serviços ao cliente (Help Desk)</li>
     <li>Implantação, manutenção de redes e servidores</li> 
       <li>
-        <ol>
+        <ol type="I">
             <li>Html/ Css    65%</li>
             <li>JavaScript   35%</li>
             <li>Java         45%</li>
