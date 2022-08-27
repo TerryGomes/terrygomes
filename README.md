@@ -60,5 +60,7 @@
     </ul>
      }}
      
-     <img src="programdor.gf" alt="Programdor" width="480" height="360" >
+     
   </div>
+  
+  <img align="center" alt="Programdor" height="360" width="480" src="programdor.gf">
