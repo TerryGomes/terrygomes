@@ -48,7 +48,7 @@
     <li>Implantação, manutenção de redes e servidores</li> 
       <li>
       
-        <ol type="I">
+        <ol>
             <li>Html/ Css    65%</li>
             <li>JavaScript   35%</li>
             <li>Java         45%</li>
