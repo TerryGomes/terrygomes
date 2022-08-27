@@ -45,17 +45,16 @@
     <li>Montagem e Manutenção</li>
     <li>Sistemas operacionais, Windows, Linux</li>
     <li>Excelência em serviços ao cliente (Help Desk)</li>
-    <li>Implantação, manutenção de redes e servidores</li>
+    <li>Implantação, manutenção de redes e servidores</li> 
+  </ul>
   
-    <li> Softs
-    <ul>
+   <ol>
     <li>Html/ Css    65%</li>
     <li>JavaScript   35%</li>
     <li>Java         45%</li>
     <li>WordPress    65%</li>
-    </ul>
-    </li>  
-  </ul>
+   </ol>
+  
     }
     
   </div>
