@@ -45,7 +45,7 @@
     <li>Montagem e Manutenção</li>
     <li>Sistemas operacionais, Windows, Linux</li>
     <li>Excelência em serviços ao cliente (Help Desk)</li>
-    <li>Implantação, manutenção de redes e servidores</li> 
+    <li>Implantação, manutenção de redes e servidores</li> <br>
       <li>Softs
         <ul>
             <li>Html/ Css    65%</li>
