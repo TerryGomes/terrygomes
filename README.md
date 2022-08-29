@@ -46,7 +46,7 @@
     <li>Sistemas operacionais, Windows, Linux</li>
     <li>Excelência em serviços ao cliente (Help Desk)</li>
     <li>Implantação, manutenção de redes e servidores</li> <br>
-      <li>Calculo baseados em sites de empregos ao programador
+      <li>Cálculo baseados em sites para empregos ao programador
         <ul>
            <li>Html    73,33%</li>
             <li>Css    46,67%</li>
