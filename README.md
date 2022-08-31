@@ -1,11 +1,9 @@
 ## Olá eu sou Leandro apelido nos games #TerryGomes   🖐️
   
 <div align="center">
-   
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terrygomes&theme=yeblu&show_icons=true&count_private=true&include_all_commits=true&hide=contribs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terrygomes&theme=yeblu&show_icons=true&count_private=true&include_all_commits=true&hide=contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrygomes&layout=compact&langs_count=7&theme=algolia"/>
- 
-</div>
+ </div>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="TerryMaster-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
