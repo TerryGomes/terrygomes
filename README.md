@@ -51,6 +51,7 @@
         <ul>
            <li>Html    73,33%</li>
             <li>Css    46,67%</li>
+            <li>PhP          23,23%</li>
             <li>JavaScript   35%</li>
             <li>Java          53,33%</li>
             <li>Mysql/ Sql   25%</li>
