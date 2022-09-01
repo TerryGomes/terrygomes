@@ -2,7 +2,7 @@
   
 <div align="left">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=terrygomes&theme=yeblu&show_icons=true&count_private=true&include_all_commits=true&hide=contribs"/>
-  <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrygomes&layout=compact&langs_count=7&theme=algolia"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrygomes&layout=compact&langs_count=7&theme=algolia"/>
   
  </div>
 <br>
