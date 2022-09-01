@@ -10,6 +10,7 @@
   <img align="center" alt="TerryMaster-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="TerryMaster-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TerryMaster-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="TerryMaster-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 </div>
 ##
 <img align="right" alt="Programdor" height="360" width="480" src="https://github.com/terrygomes/terrygomes/blob/Projeto-Emprego/programador.gif">
