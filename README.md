@@ -24,8 +24,7 @@
  <a href="https://www.linkedin.com/in/leandro-gomes-santos-81694919b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-<img align="right" alt="Programdor" height="360" width="480" src="https://github.com/terrygomes/terrygomes/blob/Projeto-Emprego/programador.gif">
-
+ <img align="right" alt="Programdor" height="360" width="480" src="https://github.com/terrygomes/terrygomes/blob/Projeto-Emprego/programador.gif">
 <div>
  <h1>Curso de Html</h1>
  <h1>Base W3Scholls</h1>
