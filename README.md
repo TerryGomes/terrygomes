@@ -13,6 +13,8 @@
 ##
 <img align="right" alt="Programdor" height="360" width="480" src="https://github.com/terrygomes/terrygomes/blob/Projeto-Emprego/programador.gif">
 <br />
+<br />
+<br />
 <div> 
 <h2> Facebook Profissional</h2>
 <a href="https://www.facebook.com/profile.php?id=100080937913526" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
