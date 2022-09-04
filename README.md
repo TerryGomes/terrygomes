@@ -31,15 +31,6 @@
  <a href="https://www.linkedin.com/in/leandro-gomes-santos-81694919b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
- 
-<div>
- <h1>Curso de Html</h1>
- <h1>Base W3Scholls</h1>
- 
- <p> Capacitar certificado da W3Scholls</p>
-     <a href="https://l2multverso.com.br/" target="_blank"> Site - MultVerso</a>
-     <p>Apenas R$ 14.99</p>
- </div>
   
   <div>
      <h2>Canal -Tecnologia dedicada a jogos</h2>
