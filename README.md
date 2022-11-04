@@ -73,8 +73,8 @@
     <h3>projetos_Em_andamentos_Gratuitos()</h3>
     {
     <ul>
-    <li>Freya High Five  / Projeto MultVerso   =  Base L2Russo/Tales/FandC </li>
-    <li>Interlude Projeto Free / L2jBrasil/MultVerso  = vase L2Acis</li>
+    <li>Freya High Five = Base L2Russo/Tales/FandC   / Projeto MultVerso </li>
+    <li>Interlude Projeto Free = Base L2Acis   / L2jBrasil / MultVerso </li>
     </ul>
      }  
     <h3>Contato()</h3>
