@@ -68,13 +68,27 @@
  
   </div>
 }
+
+ <div>
+    <h3>projetos_Em_andamentos_Gratuitos()</h3>
+    {
+    <ul>
+    <li>Freya High Five  / Projeto MultVerso   =  Base L2Russo/Tales/FandC </li>
+    <li>Interlude Projeto Free / L2jBrasil/MultVerso  = vase L2Acis</li>
+    </ul>
+     }    
+  </div>
+  
   <div>
+  <h2>Apoie_nosso_Projetos_freee()</h2>
     <h3>Contato()</h3>
     {
     <ul>
     <li>Email: leandrogomes.santos@hotmail.com</li>
     <li>Whatsapp: +55 21 98292-1391 - grupos para estudos e dúvidas</li>
       <li>Discord : TerryMaster#5011</li>
+      <li>Donate : leandrogomes.santos@hotmail.com / Paypal / Pix </li>
+
     </ul>
      }    
   </div>
