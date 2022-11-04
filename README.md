@@ -70,7 +70,7 @@
 }
 
  <div>
-  <h1>Transfome sua doação em estímulo / Turn your donation into stimulus / Convierte tu donación en estímulo</h1>
+  <h1>Transfome sua doação em estímulo <br>  * Turn your donation into stimulus <br>   * Convierte tu donación en estímulo</h1>
     <h3>projetos_Em_andamentos_Gratuitos()</h3>
     {
     <ul>
