@@ -76,11 +76,7 @@
     <li>Freya High Five  / Projeto MultVerso   =  Base L2Russo/Tales/FandC </li>
     <li>Interlude Projeto Free / L2jBrasil/MultVerso  = vase L2Acis</li>
     </ul>
-     }    
-  </div>
-  
-  <div>
-  
+     }  
     <h3>Contato()</h3>
     {
     <ul>
