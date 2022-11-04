@@ -84,7 +84,6 @@
     <li>Whatsapp: +55 21 98292-1391 - grupos para estudos e dúvidas</li>
       <li>Discord : TerryMaster#5011</li>
       <li>Donate : leandrogomes.santos@hotmail.com / Paypal / Pix </li>
-
     </ul>
      }    
   </div>
