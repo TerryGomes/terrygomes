@@ -1,4 +1,4 @@
-## Olá eu sou Leandro apelido nos games #TerryGomes   🖐️
+## Olá eu sou Leandro.🖐️ Seja um apoiador dos nossos projetos freee
   
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=terrygomes&theme=yeblu&show_icons=true&count_private=true&include_all_commits=true&hide=contribs"/>
   <img align="right" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrygomes&layout=compact&langs_count=7&theme=algolia"/>
@@ -80,7 +80,7 @@
   </div>
   
   <div>
-  <h2>Apoie_nosso_Projetos_freee()</h2>
+  
     <h3>Contato()</h3>
     {
     <ul>
@@ -92,7 +92,7 @@
     </ul>
      }    
   </div>
-  }
+  }}
   
   
   
