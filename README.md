@@ -78,10 +78,10 @@
     <li>Adição de pacote de Itens ---------R$ 250,00 [Só  adição de itens no projeto] </li>
     <li>Adição de edição de  pacote de Itens ------R$ 450,00  </li>
     <li>Edição do zero (todo servidor feito por mim) --- R$  600,00  </li>
-    <li>Thumbnall. - Youtube  --------- R$ 35,00  </li>
+    <li>Thumbnail. - Youtube  --------- R$ 35,00  </li>
     <li>Edição de vídeos.  -------------R$ 45,00 </li>
-    <li>Aula de Programação.  ----------R$ 25,00  1 - Hora</li>
-    <li>Aula de digitação.  -----------------R$ 15,00  1 - Hora</li>
+    <li>Aula de Programação.  ----------R$ 25,00  1 - Hora [Agendamento]</li>
+    <li>Aula de digitação.  -----------------R$ 15,00  1 - Hora [Agendamento]</li>
     <li>Aula de Formatação.  -----------------R$ 65,00  Remoto[Ensinando a pessoa a formatar seu pc ou notebbok]</li> 
     </ul>
      }  
