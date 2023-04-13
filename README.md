@@ -74,7 +74,7 @@
     <h3>projetos_Em_andamentos_Gratuitos()</h3>
     {
     <ul>
-    <li>Freya High Five = Base L2Russo/Tales/FandC   / Projeto MultVerso </li>
+    <li>Adição de mods --------------------R$ 120,00</li>
     <li>Interlude Projeto Free = Base L2Acis   / L2jBrasil / MultVerso </li>
     </ul>
      }  
@@ -85,8 +85,7 @@
     <li>Discord : TerryMaster#5011</li>
     <li>Donate : leandrogomes.santos@hotmail.com / Paypal / Pix </li> <br>
      
-   
-    <li>Adição de mods --------------------R$ 120,00 </li>
+
     <li>Adição de pacote de Itens ---------R$ 250,00 [Só  adição de itens no projeto] </li>
     <li>Adição de edição de  pacote de Itens ------R$ 450,00 </li>
     <li>Edição do zero (todo servidor feito por mim) --- R$  600,00 </li>
