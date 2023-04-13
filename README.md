@@ -71,11 +71,15 @@
 
  <div>
   <h1>Transfome sua doação em estímulo <br>  * Turn your donation into stimulus <br>   * Convierte tu donación en estímulo</h1>
-    <h3>projetos_Em_andamentos_Gratuitos()</h3>
+    <h3>Lista de Serviços</h3>
     {
     <ul>
     <li>Adição de mods --------------------R$ 120,00</li>
-    <li>Interlude Projeto Free = Base L2Acis   / L2jBrasil / MultVerso </li>
+    <li>Adição de pacote de Itens ---------R$ 250,00 [Só  adição de itens no projeto] </li>
+    <li>Adição de edição de  pacote de Itens ------R$ 450,00  </li>
+    <li>Edição do zero (todo servidor feito por mim) --- R$  600,00  </li>
+    <li>Thumbnall. - Youtube  -------- R$ 35,00  </li>
+    <li>Edição de vídeos.  -------------R$ 45,00 </li>  
     </ul>
      }  
     <h3>Contato()</h3>
@@ -84,13 +88,6 @@
     <li>Whatsapp: +55 21 98292-1391 - grupos para estudos e dúvidas</li>
     <li>Discord : TerryMaster#5011</li>
     <li>Donate : leandrogomes.santos@hotmail.com / Paypal / Pix </li> <br>
-     
-
-    <li>Adição de pacote de Itens ---------R$ 250,00 [Só  adição de itens no projeto] </li>
-    <li>Adição de edição de  pacote de Itens ------R$ 450,00 </li>
-    <li>Edição do zero (todo servidor feito por mim) --- R$  600,00 </li>
-    <li>Thumbnall. - Youtube  -------- R$ 35,00 </li>
-    <li>Edição de vídeos.  -------------R$ 45,00 </li>
     </ul>
      }    
   </div>
