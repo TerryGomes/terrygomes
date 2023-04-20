@@ -75,7 +75,9 @@
     {
     <ul>
     <li>Adição de mods --------------------R$ 120,00</li>
-    <li>Adição de pacote de Itens ---------R$ 250,00 [Só  adição de itens no projeto] </li>
+    <li>Correção de erro ou bug específico  ----- R$ 120,00</li>  
+    <li>Adição de Diffs manual-------------R$ 200,00</li>
+    <li>Adição de pacote de Itens ---------R$ 250,00 [Só  adição de itens / Npcs no projeto] </li>
     <li>Adição de edição de  pacote de Itens ------R$ 450,00  </li>
     <li>Edição do zero (todo servidor feito por mim) --- R$  600,00  </li>
     <li>Thumbnail. - Youtube  --------- R$ 35,00  </li>
