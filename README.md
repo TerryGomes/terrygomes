@@ -63,17 +63,15 @@
             <li>Docker    20%</li>
             <li>Mysql/ Sql   25%</li>
             <li>WordPress    65%</li>
-         </ul>
-        
-        <h2> Ferramentas:</h2>
+         </ul
+      </li>
+  </ul>
+  <h2> Ferramentas:</h2>
            <ul>
            <li>Eclipse</li>
             <li>Vscode</li>
             <li>GitHub</li>
          </ul>
-      </li>
-  </ul>
-  
  
   </div>
 }
