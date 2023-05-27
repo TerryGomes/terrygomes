@@ -82,6 +82,7 @@
     {
     <ul>
     <li>Troca de Protocol - Downgrade --------------------R$ 900,00</li>
+    <li>Diff manula --------------------R$ 200,00</li>
     <li>Adição de mods --------------------R$ 120,00</li>
     <li>Correção de erro ou bug específico  ----- R$ 120,00</li>  
     <li>Adição de Diffs manual-------------R$ 200,00</li>
