@@ -81,6 +81,7 @@
     <h3>Lista de Serviços:</h3>
     {
     <ul>
+    <li>Desenvolmento mods e outros --------------------R$ 50,00 a hora</li>
     <li>Troca de Protocol - Downgrade --------------------R$ 900,00</li>
     <li>Diff manula --------------------R$ 200,00</li>
     <li>Adição de mods --------------------R$ 120,00</li>
