@@ -60,7 +60,6 @@
             <li>JavaScript   35%</li>
             <li>Java          53,33%</li>
             <li>kotlin    20%</li>
-            <li>Docker    20%</li>
             <li>Mysql/ Sql   25%</li>
             <li>WordPress    65%</li>
          </ul
